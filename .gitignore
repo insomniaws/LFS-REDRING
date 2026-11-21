@@ -1,0 +1,7 @@
+release_assets/
+*.blend
+*.blend1
+*.lsw
+*.dds
+Thumbs.db
+.DS_Store
